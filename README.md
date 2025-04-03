@@ -30,8 +30,8 @@ Master's student in Computer Science at Université Côte d'Azur, passionate abo
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Agile](https://img.shields.io/badge/-Agile-008CDD?style=flat)
-![OOP](https://img.shields.io/badge/-OOP-3C873A?style=flat)
-![MVC](https://img.shields.io/badge/-MVC-FF69B4?style=flat)
+![Oriented-Object Programming](https://img.shields.io/badge/-OOP-3C873A?style=flat)
+![Model View Control](https://img.shields.io/badge/-MVC-FF69B4?style=flat)
 
 ## 🚀 Featured Projects
 
