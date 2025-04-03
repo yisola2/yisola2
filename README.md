@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Yassin ES SAIM
 
-## 💻 Fullstack Developer | AI Engineer | Master's Student
+## 💻 CS Student
 
 Master's student in Computer Science at Université Côte d'Azur, passionate about web development and artificial intelligence. Looking for a one-year apprenticeship with a 1-week school/1-week company rhythm.
 
