@@ -19,7 +19,6 @@ Master's student in Computer Science at Université Côte d'Azur, passionate abo
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat&logo=spring-boot)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
-![Symfony](https://img.shields.io/badge/-Symfony-000000?style=flat&logo=symfony)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 
 ### Database
