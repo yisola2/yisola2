@@ -69,4 +69,4 @@ Benchmarking deep learning training performance:
 - Bachelor's in Computer Science, Université Côte d'Azur (2021-2024)
 
 ---
-*📫 Looking for a one-year apprenticeship. Feel free to reach out!*
+
