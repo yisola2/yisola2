@@ -2,7 +2,7 @@
 
 ## 💻 CS Student
 
-Master's student in Computer Science at Université Côte d'Azur, passionate about web development and artificial intelligence. Looking for a one-year apprenticeship with a 1-week school/1-week company rhythm.
+Master's student in Computer Science at Université Côte d'Azur, passionate about web development and artificial intelligence. 
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-yassinessaim.net-blue)](https://yassinessaim.net)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-yassaim-0077B5?logo=linkedin)](https://linkedin.com/in/yassaim)
