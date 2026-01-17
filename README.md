@@ -4,7 +4,7 @@
 
 Master's student in Computer Science at Université Côte d'Azur, passionate about web development and artificial intelligence. 
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-yassinessaim.net-blue)](https://yassinessaim.net)
+[![Portfolio](https://img.shields.io/badge/Portfolio-yassinessaim.net-blue)]()
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-yassaim-0077B5?logo=linkedin)](https://linkedin.com/in/yassaim)
 [![Email](https://img.shields.io/badge/Email-essaimyassinf%40gmail.com-red?logo=gmail)](mailto:essaimyassinf@gmail.com)
 
